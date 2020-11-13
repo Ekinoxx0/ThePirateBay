@@ -1,0 +1,495 @@
+2019-08-18 21:02:31.446 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-18 21:02:31.467 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-18 21:02:31.495 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-18 21:02:32.082 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-18 21:02:32.157 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-18 21:02:37.522 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 21:02:37.522 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-18 21:03:48.622 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 0000 test
+2019-08-18 21:04:04.000 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 4906 Test 🙂
+2019-08-18 21:04:04.032 [discord4j-events-1] INFO  t.t.commands.users.msg.MsgCommand        : 0000 -> 4906 [0]: 
+2019-08-18 21:04:04.067 [discord4j-events-1] INFO  to.thepiratebay.users.PlatformUser       : Saved Anonyme successfuly
+2019-08-18 21:04:04.094 [discord4j-events-1] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:07:27.061 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-18 21:07:27.084 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-18 21:07:27.116 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-18 21:07:27.628 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-18 21:07:27.743 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-18 21:07:31.256 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 21:07:31.257 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-18 21:07:37.190 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Anonyme[4906]:!msg 0000
+2019-08-18 21:07:47.528 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Anonyme[4906]:!msg 0000 y
+2019-08-18 21:07:47.554 [discord4j-events-1] INFO  t.t.commands.users.msg.MsgCommand        : 4906 -> 0000 [0]: 
+2019-08-18 21:07:47.584 [discord4j-events-1] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:07:47.603 [discord4j-events-1] INFO  to.thepiratebay.users.PlatformUser       : Saved Anonyme successfuly
+2019-08-18 21:08:31.425 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-18 21:08:31.430 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-18 21:08:31.433 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-18 21:08:31.972 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-18 21:08:31.986 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-18 21:08:34.922 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-18 21:08:34.922 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 21:08:42.767 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Anonyme[4906]:!msg 0000 t
+2019-08-18 21:08:42.780 [discord4j-events-3] INFO  t.t.commands.users.msg.MsgCommand        : 4906 -> 0000 [0]: 
+2019-08-18 21:08:42.795 [discord4j-events-3] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:08:42.806 [discord4j-events-3] INFO  to.thepiratebay.users.PlatformUser       : Saved Anonyme successfuly
+2019-08-18 21:09:13.064 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-18 21:09:13.068 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-18 21:09:13.071 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-18 21:09:13.559 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-18 21:09:13.570 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-18 21:09:16.237 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-18 21:09:16.237 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 21:09:30.183 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Anonyme[4906]:!msg 0000 th as dg
+2019-08-18 21:09:30.197 [discord4j-events-4] INFO  t.t.commands.users.msg.MsgCommand        : 4906 -> 0000 [0]: th as dg 
+2019-08-18 21:09:30.216 [discord4j-events-4] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:09:30.228 [discord4j-events-4] INFO  to.thepiratebay.users.PlatformUser       : Saved Anonyme successfuly
+2019-08-18 21:17:19.037 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-18 21:23:38.450 [reactor-http-nio-4] WARN  discord4j.gateway.0                      : Triggering error sequence (java.io.IOException: Une connexion existante a dû être fermée par l’hôte distant)
+2019-08-18 21:23:38.455 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1006 java.io.IOException: Une connexion existante a dû être fermée par l’hôte distant
+2019-08-18 21:23:38.456 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 1 in 2447 ms
+2019-08-18 21:23:40.922 [reactor-http-nio-1] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: Hôte inconnu (gateway.discord.gg)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 21:23:40.935 [reactor-http-nio-1] INFO  discord4j.gateway.client.0               : Retry attempt 2 in 4525 ms
+2019-08-18 21:23:45.486 [reactor-http-nio-3] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: gateway.discord.gg
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 21:23:45.490 [reactor-http-nio-3] INFO  discord4j.gateway.client.0               : Retry attempt 3 in 9110 ms
+2019-08-18 21:23:54.628 [reactor-http-nio-1] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: Hôte inconnu (gateway.discord.gg)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 21:23:54.639 [reactor-http-nio-1] INFO  discord4j.gateway.client.0               : Retry attempt 4 in 22108 ms
+2019-08-18 21:24:16.782 [reactor-http-nio-3] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: Hôte inconnu (gateway.discord.gg)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 21:24:16.792 [reactor-http-nio-3] INFO  discord4j.gateway.client.0               : Retry attempt 5 in 34431 ms
+2019-08-18 21:24:52.071 [discord4j-events-9] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 21:24:52.071 [reactor-http-nio-2] INFO  discord4j.gateway.client.0               : Reconnected to Gateway
+2019-08-18 21:26:07.201 [discord4j-events-9] INFO  to.thepiratebay.feeds.UsersFeed          : Anonyme[4b79]:!public Test 👌
+2019-08-18 21:27:13.216 [discord4j-events-9] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!public Bien reçu chef !
+2019-08-18 21:42:10.317 [discord4j-events-14] INFO  to.thepiratebay.feeds.AdminFeed          : Ekinoxx[gestion-admin]:!help
+2019-08-18 21:49:07.799 [discord4j-events-16] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!services
+2019-08-18 21:52:08.343 [discord4j-events-21] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!join PARIS
+2019-08-18 21:52:10.593 [discord4j-events-21] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!join WEED
+2019-08-18 21:56:06.725 [discord4j-events-19] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 0f65 Hey, je cherche quelqu'un pour me fournir des armes illégales...
+2019-08-18 21:56:06.729 [discord4j-events-19] INFO  t.t.commands.users.msg.MsgCommand        : 0000 -> 0f65 [0]: Hey, je cherche quelqu'un pour me fournir des armes illégales... 
+2019-08-18 21:56:06.753 [discord4j-events-19] INFO  to.thepiratebay.users.PlatformUser       : Saved ZyroK successfuly
+2019-08-18 21:56:06.776 [discord4j-events-19] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:56:23.293 [discord4j-events-19] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 4906 Tu aurais des contacts à propos de truc sale ?
+2019-08-18 21:56:23.298 [discord4j-events-19] INFO  t.t.commands.users.msg.MsgCommand        : 0000 -> 4906 [0]: Tu aurais des contacts à propos de truc sale ? 
+2019-08-18 21:56:23.328 [discord4j-events-19] INFO  to.thepiratebay.users.PlatformUser       : Saved Anonyme successfuly
+2019-08-18 21:56:23.352 [discord4j-events-19] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:56:37.347 [discord4j-events-24] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 4b79 Hello 🙂
+2019-08-18 21:56:37.350 [discord4j-events-24] INFO  t.t.commands.users.msg.MsgCommand        : 0000 -> 4b79 [0]: Hello 🙂 
+2019-08-18 21:56:37.372 [discord4j-events-24] INFO  to.thepiratebay.users.PlatformUser       : Saved Ken successfuly
+2019-08-18 21:56:37.399 [discord4j-events-24] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:56:50.924 [discord4j-events-23] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!public Je cherche quelqu'un de sérieux
+2019-08-18 21:56:57.910 [discord4j-events-23] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0f65]:!pop
+2019-08-18 21:56:58.763 [discord4j-events-23] INFO  to.thepiratebay.feeds.UsersFeed          : ZyroK[0f65]:!msg 0000 t ki
+2019-08-18 21:56:58.765 [discord4j-events-23] INFO  t.t.commands.users.msg.MsgCommand        : 0f65 -> 0000 [0]: t ki 
+2019-08-18 21:56:58.800 [discord4j-events-23] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:56:58.821 [discord4j-events-23] INFO  to.thepiratebay.users.PlatformUser       : Saved ZyroK successfuly
+2019-08-18 21:57:30.959 [discord4j-events-23] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[4906]:!pop
+2019-08-18 21:57:46.996 [discord4j-events-23] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[4b79]:!pop
+2019-08-18 21:58:01.385 [discord4j-events-24] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[4b79]:!msg 0000 J'ai peut être quelque chose pour toi 😉
+2019-08-18 21:58:01.389 [discord4j-events-24] INFO  t.t.commands.users.msg.MsgCommand        : 4b79 -> 0000 [0]: J'ai peut être quelque chose pour toi 😉 
+2019-08-18 21:58:01.415 [discord4j-events-24] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 21:58:01.435 [discord4j-events-24] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-18 22:04:00.597 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-18 22:04:00.609 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-18 22:04:00.620 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-18 22:04:01.277 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-18 22:04:01.394 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-18 22:04:04.678 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 22:04:04.679 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-18 22:04:11.765 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!notes
+2019-08-18 22:09:57.251 [reactor-http-nio-4] WARN  discord4j.gateway.0                      : Triggering error sequence (java.io.IOException: Une connexion existante a dû être fermée par l’hôte distant)
+2019-08-18 22:09:57.259 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1006 java.io.IOException: Une connexion existante a dû être fermée par l’hôte distant
+2019-08-18 22:09:57.260 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 1 in 2682 ms
+2019-08-18 22:09:59.969 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: Hôte inconnu (gateway.discord.gg)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 22:09:59.987 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 2 in 2356 ms
+2019-08-18 22:10:02.377 [reactor-http-nio-2] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: gateway.discord.gg
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 22:10:02.382 [reactor-http-nio-2] INFO  discord4j.gateway.client.0               : Retry attempt 3 in 7241 ms
+2019-08-18 22:10:09.633 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error
+java.net.UnknownHostException: gateway.discord.gg
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1248)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:552)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:49)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:188)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:174)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:502)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:476)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:415)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:540)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:529)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:101)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1009)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:517)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:428)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:487)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:405)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoCreate] :
+	reactor.core.publisher.Mono.create(Mono.java:183)
+	reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+Error has been observed by the following operator(s):
+	|_	Mono.create ⇢ reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:130)
+	|_	Mono.create ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:296)
+	|_	Mono.retry ⇢ reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:333)
+	|_	Mono.flatMapMany ⇢ reactor.netty.http.client.WebsocketFinalizer.handle(WebsocketFinalizer.java:74)
+	|_	Flux.doOnTerminate ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:267)
+	|_	Flux.then ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:268)
+	|_	Mono.log ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:269)
+	|_	Mono.zip ⇢ discord4j.gateway.DefaultGatewayClient.lambda$execute$16(DefaultGatewayClient.java:271)
+
+2019-08-18 22:10:09.635 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 4 in 10123 ms
+2019-08-18 22:10:20.792 [discord4j-events-6] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-18 22:10:20.792 [reactor-http-nio-3] INFO  discord4j.gateway.client.0               : Reconnected to Gateway
+2019-08-18 22:53:05.029 [elastic-2] WARN  discord4j.gateway.client.0               : Missing heartbeat ACK for PT33M7.03292318S
+2019-08-18 22:53:05.030 [elastic-2] WARN  discord4j.gateway.0                      : Triggering error sequence (java.lang.RuntimeException: Reconnecting due to zombie or failed connection)
+2019-08-18 22:53:05.035 [elastic-2] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1006 java.lang.RuntimeException: Reconnecting due to zombie or failed connection
+2019-08-18 22:53:05.036 [elastic-2] INFO  discord4j.gateway.client.0               : Retry attempt 1 in 2163 ms
+2019-08-18 22:53:13.629 [reactor-http-nio-4] INFO  discord4j.gateway.handler.0              : Attempting to RESUME from 4
+2019-08-18 22:53:19.771 [reactor-http-nio-4] WARN  discord4j.gateway.0                      : Triggering error sequence (java.lang.RuntimeException: Reconnecting due to non-resumable session invalidation)
+2019-08-18 22:53:19.773 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1006 java.lang.RuntimeException: Reconnecting due to non-resumable session invalidation
+2019-08-18 22:53:19.773 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 2 in 4634 ms
+2019-08-18 22:53:25.253 [reactor-http-nio-2] INFO  discord4j.gateway.client.0               : Reconnected to Gateway
+2019-08-18 22:53:25.253 [discord4j-events-11] INFO  TPB                                      : ThePirateBay is now logged.

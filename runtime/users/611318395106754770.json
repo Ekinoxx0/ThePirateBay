@@ -1,0 +1,21 @@
+{
+  "id": 611318395106754770,
+  "username": "Anonyme",
+  "roleId": 611333920394313765,
+  "channelId": 611333923087319041,
+  "arrivalDate": 1565823766335,
+  "isPremium": false,
+  "bypassOlderness": false,
+  "protection": "NOTHING",
+  "whitelistedFor": [],
+  "sentMsgNumber": 3,
+  "receivedMsgNumber": 2,
+  "notes": {
+    "195274814569578506": 1
+  },
+  "lastMessageSender": "0000",
+  "relationWith": [
+    "0000"
+  ],
+  "contactList": {}
+}

@@ -1,0 +1,7 @@
+{
+  "isActive": true,
+  "decryptChance": 5,
+  "decryptPartialChance": 20,
+  "decryptSenderChance": 10,
+  "decryptTargetChance": 10
+}

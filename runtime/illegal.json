@@ -1,0 +1,52 @@
+[
+  {
+    "service": "WEED",
+    "active": true,
+    "isPrivate": false,
+    "isWhitelisted": false,
+    "contactList": [],
+    "details": "Vente \u0026 Organisation des points de Weed"
+  },
+  {
+    "service": "TUEUR_A_GAGE",
+    "active": false,
+    "isPrivate": true,
+    "isWhitelisted": true,
+    "contactList": [],
+    "details": "(ERREUR)"
+  },
+  {
+    "service": "BLANCHISSEUR",
+    "active": true,
+    "isPrivate": false,
+    "isWhitelisted": true,
+    "contactList": [
+      "BLAN"
+    ],
+    "details": "Blanchissement d\u0027argent sale (avec commission)"
+  },
+  {
+    "service": "ARMES_ILLEGAL",
+    "active": false,
+    "isPrivate": false,
+    "isWhitelisted": true,
+    "contactList": [],
+    "details": "Vente d\u0027armes illégales (Vente réservé aux gangs)"
+  },
+  {
+    "service": "GANG",
+    "active": false,
+    "isPrivate": false,
+    "isWhitelisted": true,
+    "contactList": [],
+    "details": "Services \u0026 Recrutement des gangs"
+  },
+  {
+    "service": "PARIS",
+    "active": false,
+    "isPrivate": true,
+    "isWhitelisted": false,
+    "contactList": [],
+    "details": "(ERREUR)"
+  }
+]

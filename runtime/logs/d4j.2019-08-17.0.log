@@ -1,0 +1,612 @@
+2019-08-17 01:31:29.368 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 01:31:29.373 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 01:31:29.377 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 01:31:29.381 [main] INFO  PoliceFeed                               : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 01:31:29.898 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 01:31:31.994 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 01:31:31.994 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 01:31:39.617 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!profil
+2019-08-17 01:31:43.927 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg 0000 t
+2019-08-17 03:36:54.128 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 03:36:54.132 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 03:36:54.136 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 03:36:54.141 [main] INFO  PoliceFeed                               : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 03:36:54.642 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 03:36:56.888 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 03:36:56.888 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 03:37:01.811 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!profil
+2019-08-17 04:01:00.500 [reactor-http-nio-4] INFO  discord4j.gateway.inbound.0              : Receiver completed on shard 0
+2019-08-17 04:01:00.501 [reactor-http-nio-4] INFO  discord4j.gateway.inbound.0              : Forwarding close reason: 1001
+2019-08-17 04:01:00.526 [reactor-http-nio-4] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1001
+2019-08-17 04:01:00.528 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Retry attempt 1 in 2154 ms
+2019-08-17 04:01:03.053 [reactor-http-nio-3] INFO  discord4j.gateway.handler.0              : Attempting to RESUME from 102
+2019-08-17 04:01:03.198 [reactor-http-nio-3] INFO  discord4j.gateway.client.0               : Reconnected to Gateway
+2019-08-17 04:11:19.854 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:11:19.858 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:11:19.862 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:11:20.357 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:11:20.368 [main] ERROR TPB                                      : Unable to create feeds...
+2019-08-17 04:11:22.537 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:11:55.063 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:11:55.068 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:11:55.072 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:11:55.582 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:11:55.594 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:11:57.536 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:11:57.535 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:12:04.122 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-17 04:12:28.288 [discord4j-events-2] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!help
+2019-08-17 04:13:43.934 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:13:43.938 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:13:43.942 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:13:44.457 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:13:44.463 [main] WARN  t.t.commands.admin.InfoBcCommand         : Details of !infobc are too long...
+2019-08-17 04:13:44.464 [main] WARN  t.t.commands.admin.MaintenanceCommand    : Details of !maintenance are too long...
+2019-08-17 04:13:44.467 [main] WARN  t.t.commands.admin.PublicBcCommand       : Details of !publicbc are too long...
+2019-08-17 04:13:44.471 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:13:47.651 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:13:47.651 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:14:37.580 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:14:37.583 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:14:37.587 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:14:38.078 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:14:38.088 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:14:40.177 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:14:40.177 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:26:37.545 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:26:37.548 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:26:37.553 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:26:38.120 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:26:38.134 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:26:38.139 [main] ERROR TPB                                      : Unable to create feeds...
+2019-08-17 04:26:40.336 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:27:54.471 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:27:54.475 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:27:54.479 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:27:54.961 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:27:54.975 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:27:56.950 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:27:56.950 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:28:01.085 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-17 04:28:01.088 [discord4j-events-2] ERROR reactor.core.publisher.Operators         : Operator called default onErrorDropped
+java.lang.NullPointerException: null
+	at to.thepiratebay.commands.abst.HelpCommand.lambda$0(HelpCommand.java:37)
+	at discord4j.core.spec.MessageCreateSpec.setEmbed(MessageCreateSpec.java:94)
+	at discord4j.core.object.entity.MessageChannel.lambda$createEmbed$1(MessageChannel.java:86)
+	at discord4j.core.object.entity.BaseMessageChannel.createMessage(BaseMessageChannel.java:71)
+	at discord4j.core.object.entity.BaseGuildMessageChannel.createMessage(BaseGuildMessageChannel.java:138)
+	at discord4j.core.object.entity.TextChannel.createMessage(TextChannel.java:28)
+	at discord4j.core.object.entity.MessageChannel.createEmbed(MessageChannel.java:86)
+	at to.thepiratebay.commands.abst.HelpCommand.run(HelpCommand.java:27)
+	at to.thepiratebay.feeds.abst.AbstractFeed.processMsg(AbstractFeed.java:73)
+	at to.thepiratebay.feeds.abst.AbstractFeed.onMessage(AbstractFeed.java:45)
+	at to.thepiratebay.ThePirateBay.lambda$22(ThePirateBay.java:166)
+	at reactor.core.publisher.LambdaMonoSubscriber.onNext(LambdaMonoSubscriber.java:137)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1510)
+	at reactor.core.publisher.MonoAny$AnySubscriber.onNext(MonoAny.java:109)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableSubscriber.onNext(FluxFilterFuseable.java:113)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableConditionalSubscriber.onNext(FluxMapFuseable.java:287)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableConditionalSubscriber.onNext(FluxFilterFuseable.java:331)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onNext(MonoFlatMapMany.java:238)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.drainAsync(FluxFlattenIterable.java:395)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.drain(FluxFlattenIterable.java:638)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.onNext(FluxFlattenIterable.java:242)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:97)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1496)
+	at reactor.core.publisher.MonoCollectList$MonoCollectListSubscriber.onComplete(MonoCollectList.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onComplete(FluxSwitchIfEmpty.java:78)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onComplete(FluxMapFuseable.java:144)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.checkTerminated(FluxFlatMap.java:794)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.drainLoop(FluxFlatMap.java:560)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.drain(FluxFlatMap.java:540)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.onComplete(FluxFlatMap.java:426)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onComplete(FluxMapFuseable.java:144)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onComplete(MonoFlatMapMany.java:248)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxIterable$IterableSubscription.slowPath(FluxIterable.java:265)
+	at reactor.core.publisher.FluxIterable$IterableSubscription.request(FluxIterable.java:201)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onSubscribeInner(MonoFlatMapMany.java:140)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onSubscribe(MonoFlatMapMany.java:233)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+	at reactor.core.publisher.FluxStream.subscribe(FluxStream.java:67)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.Flux.subscribe(Flux.java:7799)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onNext(MonoFlatMapMany.java:184)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onNext(FluxMap.java:114)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2066)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMap$MapSubscriber.request(FluxMap.java:155)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onSubscribe(MonoFlatMapMany.java:131)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onSubscribe(FluxMap.java:86)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+	at reactor.core.publisher.MonoCallableOnAssembly.subscribe(MonoCallableOnAssembly.java:82)
+	at reactor.core.publisher.MonoMap.subscribe(MonoMap.java:55)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlatMapMany.subscribe(MonoFlatMapMany.java:49)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxFlatMap.subscribe(FluxFlatMap.java:97)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxSwitchIfEmpty.subscribe(FluxSwitchIfEmpty.java:45)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.MonoCollectList.subscribe(MonoCollectList.java:40)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlattenIterable.subscribe(MonoFlattenIterable.java:101)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.Flux.subscribe(Flux.java:7799)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onNext(MonoFlatMapMany.java:184)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2066)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1874)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1748)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+	at reactor.core.publisher.MonoCallableOnAssembly.subscribe(MonoCallableOnAssembly.java:82)
+	at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoSwitchIfEmpty.subscribe(MonoSwitchIfEmpty.java:44)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlatMapMany.subscribe(MonoFlatMapMany.java:49)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxFilterFuseable.subscribe(FluxFilterFuseable.java:48)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:60)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxFilterFuseable.subscribe(FluxFilterFuseable.java:52)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.MonoAny.subscribe(MonoAny.java:48)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3710)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:3816)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3704)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3671)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3618)
+	at to.thepiratebay.ThePirateBay.onMessage(ThePirateBay.java:165)
+	at reactor.core.publisher.LambdaSubscriber.onNext(LambdaSubscriber.java:130)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableSubscriber.tryOnNext(FluxFilterFuseable.java:143)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxPeekFuseable$PeekFuseableConditionalSubscriber.tryOnNext(FluxPeekFuseable.java:513)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableConditionalSubscriber.tryOnNext(FluxMapFuseable.java:303)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableConditionalSubscriber.tryOnNext(FluxFilterFuseable.java:361)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxPublishOn$PublishOnConditionalSubscriber.runAsync(FluxPublishOn.java:866)
+	at reactor.core.publisher.FluxPublishOn$PublishOnConditionalSubscriber.run(FluxPublishOn.java:939)
+	at reactor.scheduler.forkjoin.ForkJoinPoolScheduler$DisposableWorkerTask.run(ForkJoinPoolScheduler.java:443)
+	at reactor.scheduler.forkjoin.ForkJoinPoolScheduler$Worker.processTaskQueue(ForkJoinPoolScheduler.java:407)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1425)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
+2019-08-17 04:28:01.099 [discord4j-events-2] ERROR reactor.core.scheduler.Schedulers        : Scheduler worker in group main failed with an uncaught exception
+java.lang.NullPointerException: null
+	at to.thepiratebay.commands.abst.HelpCommand.lambda$0(HelpCommand.java:37)
+	at discord4j.core.spec.MessageCreateSpec.setEmbed(MessageCreateSpec.java:94)
+	at discord4j.core.object.entity.MessageChannel.lambda$createEmbed$1(MessageChannel.java:86)
+	at discord4j.core.object.entity.BaseMessageChannel.createMessage(BaseMessageChannel.java:71)
+	at discord4j.core.object.entity.BaseGuildMessageChannel.createMessage(BaseGuildMessageChannel.java:138)
+	at discord4j.core.object.entity.TextChannel.createMessage(TextChannel.java:28)
+	at discord4j.core.object.entity.MessageChannel.createEmbed(MessageChannel.java:86)
+	at to.thepiratebay.commands.abst.HelpCommand.run(HelpCommand.java:27)
+	at to.thepiratebay.feeds.abst.AbstractFeed.processMsg(AbstractFeed.java:73)
+	at to.thepiratebay.feeds.abst.AbstractFeed.onMessage(AbstractFeed.java:45)
+	at to.thepiratebay.ThePirateBay.lambda$22(ThePirateBay.java:166)
+	at reactor.core.publisher.LambdaMonoSubscriber.onNext(LambdaMonoSubscriber.java:137)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1510)
+	at reactor.core.publisher.MonoAny$AnySubscriber.onNext(MonoAny.java:109)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableSubscriber.onNext(FluxFilterFuseable.java:113)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableConditionalSubscriber.onNext(FluxMapFuseable.java:287)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableConditionalSubscriber.onNext(FluxFilterFuseable.java:331)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onNext(MonoFlatMapMany.java:238)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.drainAsync(FluxFlattenIterable.java:395)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.drain(FluxFlattenIterable.java:638)
+	at reactor.core.publisher.FluxFlattenIterable$FlattenIterableSubscriber.onNext(FluxFlattenIterable.java:242)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:97)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$MonoSubscriber.complete(Operators.java:1496)
+	at reactor.core.publisher.MonoCollectList$MonoCollectListSubscriber.onComplete(MonoCollectList.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onComplete(FluxSwitchIfEmpty.java:78)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onComplete(FluxMapFuseable.java:144)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.checkTerminated(FluxFlatMap.java:794)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.drainLoop(FluxFlatMap.java:560)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.drain(FluxFlatMap.java:540)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.onComplete(FluxFlatMap.java:426)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onComplete(FluxMapFuseable.java:144)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onComplete(MonoFlatMapMany.java:248)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onComplete(FluxOnAssembly.java:355)
+	at reactor.core.publisher.FluxIterable$IterableSubscription.slowPath(FluxIterable.java:265)
+	at reactor.core.publisher.FluxIterable$IterableSubscription.request(FluxIterable.java:201)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onSubscribeInner(MonoFlatMapMany.java:140)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyInner.onSubscribe(MonoFlatMapMany.java:233)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+	at reactor.core.publisher.FluxStream.subscribe(FluxStream.java:67)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.Flux.subscribe(Flux.java:7799)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onNext(MonoFlatMapMany.java:184)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onNext(FluxMap.java:114)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2066)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMap$MapSubscriber.request(FluxMap.java:155)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onSubscribe(MonoFlatMapMany.java:131)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onSubscribe(FluxMap.java:86)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+	at reactor.core.publisher.MonoCallableOnAssembly.subscribe(MonoCallableOnAssembly.java:82)
+	at reactor.core.publisher.MonoMap.subscribe(MonoMap.java:55)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlatMapMany.subscribe(MonoFlatMapMany.java:49)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxFlatMap.subscribe(FluxFlatMap.java:97)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxSwitchIfEmpty.subscribe(FluxSwitchIfEmpty.java:45)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.MonoCollectList.subscribe(MonoCollectList.java:40)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlattenIterable.subscribe(MonoFlattenIterable.java:101)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.Flux.subscribe(Flux.java:7799)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onNext(MonoFlatMapMany.java:184)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2066)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.request(FluxOnAssembly.java:442)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1874)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1748)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onSubscribe(FluxOnAssembly.java:426)
+	at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+	at reactor.core.publisher.MonoCallableOnAssembly.subscribe(MonoCallableOnAssembly.java:82)
+	at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoSwitchIfEmpty.subscribe(MonoSwitchIfEmpty.java:44)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoMapFuseable.subscribe(MonoMapFuseable.java:59)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.MonoFlatMapMany.subscribe(MonoFlatMapMany.java:49)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxFilterFuseable.subscribe(FluxFilterFuseable.java:48)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:60)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:117)
+	at reactor.core.publisher.FluxFilterFuseable.subscribe(FluxFilterFuseable.java:52)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.FluxMapFuseable.subscribe(FluxMapFuseable.java:63)
+	at reactor.core.publisher.FluxOnAssembly.subscribe(FluxOnAssembly.java:122)
+	at reactor.core.publisher.MonoAny.subscribe(MonoAny.java:48)
+	at reactor.core.publisher.MonoOnAssembly.subscribe(MonoOnAssembly.java:61)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3710)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:3816)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3704)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3671)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:3618)
+	at to.thepiratebay.ThePirateBay.onMessage(ThePirateBay.java:165)
+	at reactor.core.publisher.LambdaSubscriber.onNext(LambdaSubscriber.java:130)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onNext(FluxOnAssembly.java:345)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableSubscriber.tryOnNext(FluxFilterFuseable.java:143)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxPeekFuseable$PeekFuseableConditionalSubscriber.tryOnNext(FluxPeekFuseable.java:513)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxMapFuseable$MapFuseableConditionalSubscriber.tryOnNext(FluxMapFuseable.java:303)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxFilterFuseable$FilterFuseableConditionalSubscriber.tryOnNext(FluxFilterFuseable.java:361)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblyConditionalSubscriber.tryOnNext(FluxOnAssembly.java:476)
+	at reactor.core.publisher.FluxPublishOn$PublishOnConditionalSubscriber.runAsync(FluxPublishOn.java:866)
+	at reactor.core.publisher.FluxPublishOn$PublishOnConditionalSubscriber.run(FluxPublishOn.java:939)
+	at reactor.scheduler.forkjoin.ForkJoinPoolScheduler$DisposableWorkerTask.run(ForkJoinPoolScheduler.java:443)
+	at reactor.scheduler.forkjoin.ForkJoinPoolScheduler$Worker.processTaskQueue(ForkJoinPoolScheduler.java:407)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1425)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
+2019-08-17 04:28:40.570 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:28:40.575 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:28:40.579 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:28:41.096 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:28:41.110 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:28:43.077 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:28:43.077 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:28:44.488 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-17 04:29:29.164 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:29:29.168 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:29:29.175 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:29:29.800 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:29:29.814 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:29:31.982 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:29:31.983 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:29:33.992 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-17 04:31:02.202 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg
+2019-08-17 04:32:29.981 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:32:29.986 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:32:29.991 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:32:30.548 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:32:30.560 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:32:32.758 [discord4j-events-4] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:32:32.758 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:32:37.606 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg
+2019-08-17 04:33:04.153 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg ' r
+2019-08-17 04:43:53.218 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:43:53.223 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:43:53.233 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:43:53.956 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:43:53.967 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:43:57.687 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:43:57.688 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:44:00.005 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!help
+2019-08-17 04:44:03.805 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg t
+2019-08-17 04:44:11.420 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg t
+2019-08-17 04:48:44.670 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:48:44.674 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:48:44.679 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:48:45.280 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:48:45.293 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:48:48.628 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:48:48.628 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:48:49.786 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg t
+2019-08-17 04:50:57.574 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:50:57.578 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:50:57.582 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:50:58.099 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:50:58.112 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:51:00.272 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:51:00.272 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:51:02.508 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg t
+2019-08-17 04:51:26.928 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:51:26.934 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:51:26.939 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:51:27.473 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:51:27.486 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:51:30.736 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:51:30.736 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:51:31.439 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg t
+2019-08-17 04:52:45.180 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:52:45.184 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:52:45.189 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:52:45.750 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:52:45.778 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:52:48.026 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:52:48.026 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 04:52:48.849 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!msg
+2019-08-17 04:53:27.414 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!service
+2019-08-17 04:53:31.294 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!service ee e e e
+2019-08-17 04:57:38.376 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 04:57:38.381 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 04:57:38.386 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 04:57:38.393 [main] INFO  IdDB                                     : Succesfuly saved IllegalDB
+2019-08-17 04:57:38.867 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 04:57:38.877 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 04:57:40.966 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 04:57:40.966 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:06:04.589 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:06:04.593 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:06:04.597 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:06:05.111 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:06:05.123 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:06:07.213 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:06:07.214 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:06:12.907 [discord4j-events-2] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!services
+2019-08-17 05:10:13.034 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:10:13.038 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:10:13.043 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:10:13.554 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:10:13.565 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:10:15.825 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:10:15.825 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:10:17.865 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!save
+2019-08-17 05:11:47.396 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:11:47.400 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:11:47.404 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:11:47.928 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:11:47.941 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:11:50.043 [discord4j-events-2] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:11:50.043 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:11:52.839 [discord4j-events-3] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!services
+2019-08-17 05:12:38.364 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!service PARIS
+2019-08-17 05:16:15.050 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:16:15.054 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:16:15.057 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:16:15.593 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:16:15.608 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:16:17.752 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:16:17.753 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:16:18.771 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!save
+2019-08-17 05:16:51.860 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:16:51.864 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:16:51.868 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:16:52.423 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:16:52.437 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:16:54.510 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:16:54.510 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:17:10.187 [discord4j-events-4] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!save
+2019-08-17 05:17:46.112 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:17:46.116 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:17:46.119 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:17:46.602 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:17:46.612 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:17:48.747 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:17:48.747 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:18:25.203 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:18:25.207 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:18:25.210 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:18:25.712 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:18:25.724 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:18:28.362 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:18:28.362 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:19:03.571 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 05:19:03.574 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 05:19:03.578 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 05:19:04.182 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 05:19:04.195 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 05:19:06.253 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 05:19:06.253 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 05:19:06.587 [discord4j-events-1] INFO  to.thepiratebay.feeds.UsersFeed          : Ekinoxx[0000]:!save
+2019-08-17 05:19:06.596 [discord4j-events-1] INFO  to.thepiratebay.users.PlatformUser       : Saved Ekinoxx successfuly
+2019-08-17 18:40:02.267 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 18:40:02.275 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 18:40:02.281 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 18:40:02.781 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 18:40:02.796 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 18:40:05.535 [discord4j-events-3] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 18:40:05.535 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 18:40:08.326 [discord4j-events-3] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil
+2019-08-17 18:42:36.381 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 18:42:36.385 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 18:42:36.388 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 18:42:36.868 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 18:42:36.878 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 18:42:39.494 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 18:42:39.494 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 18:42:46.183 [discord4j-events-2] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil
+2019-08-17 18:42:53.901 [discord4j-events-2] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil 0000
+2019-08-17 18:43:57.401 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 18:43:57.405 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 18:43:57.408 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 18:43:57.883 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 18:43:57.895 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 18:44:01.522 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 18:44:01.523 [discord4j-events-4] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 18:44:07.891 [discord4j-events-4] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil BLAN
+2019-08-17 18:44:33.052 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 18:44:33.056 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 18:44:33.059 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 18:44:33.547 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 18:44:33.557 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 18:44:36.258 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 18:44:36.258 [discord4j-events-4] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 18:44:39.960 [discord4j-events-4] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil BLAN
+2019-08-17 18:50:19.650 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-17 18:50:19.654 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-17 18:50:19.657 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-17 18:50:20.148 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-17 18:50:20.158 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-17 18:50:22.833 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-17 18:50:22.833 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway
+2019-08-17 18:50:28.421 [discord4j-events-1] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil 000
+2019-08-17 18:50:33.883 [discord4j-events-4] INFO  to.thepiratebay.feeds.AdminFeed          : Anonyme[gestion-admin]:!profil 0000
+2019-08-17 20:17:09.152 [elastic-2] WARN  discord4j.gateway.client.0               : Missing heartbeat ACK for PT55M50.213138028S
+2019-08-17 20:17:09.160 [elastic-2] WARN  discord4j.gateway.0                      : Triggering error sequence (java.lang.RuntimeException: Reconnecting due to zombie or failed connection)
+2019-08-17 20:17:09.178 [elastic-2] ERROR discord4j.gateway.client.0               : Gateway client error: discord4j.common.close.CloseException: WebSocket closed: 1006 java.lang.RuntimeException: Reconnecting due to zombie or failed connection
+2019-08-17 20:17:09.180 [elastic-2] INFO  discord4j.gateway.client.0               : Retry attempt 1 in 2836 ms

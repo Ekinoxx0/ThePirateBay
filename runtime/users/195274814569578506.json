@@ -1,0 +1,28 @@
+{
+  "id": 195274814569578506,
+  "username": "Ekinoxx",
+  "roleId": 610903851280629788,
+  "channelId": 610903852472074260,
+  "rpName": "Leo Dagan",
+  "arrivalDate": 1565888198727,
+  "isPremium": false,
+  "bypassOlderness": false,
+  "protection": "NOTHING",
+  "whitelistedFor": [],
+  "sentMsgNumber": 6,
+  "receivedMsgNumber": 6,
+  "notes": {
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "8": 8
+  },
+  "lastMessageSender": "4b79",
+  "relationWith": [
+    "0000",
+    "4906",
+    "0f65",
+    "4b79"
+  ],
+  "contactList": {}
+}

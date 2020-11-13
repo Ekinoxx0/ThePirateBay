@@ -1,0 +1,7 @@
+2019-08-19 19:57:30.738 [main] INFO  UsersDB                                  : Finished loading 4 users file into UsersDB..
+2019-08-19 19:57:30.758 [main] INFO  KeyDB                                    : Finished loading 5 keys from Json file into KeyDB..
+2019-08-19 19:57:30.778 [main] INFO  IdDB                                     : Finished loading 6 services from Json file into IllegalDB..
+2019-08-19 19:57:31.292 [main] INFO  discord4j.core.DiscordClientBuilder      : Shard 0 with Discord4J 3.0.8 (https://discord4j.com)
+2019-08-19 19:57:31.417 [main] INFO  to.thepiratebay.feeds.PoliceFeed         : Finished loading PoliceConfig from PoliceFeed..
+2019-08-19 19:57:33.676 [discord4j-events-1] INFO  TPB                                      : ThePirateBay is now logged.
+2019-08-19 19:57:33.676 [reactor-http-nio-4] INFO  discord4j.gateway.client.0               : Connected to Gateway

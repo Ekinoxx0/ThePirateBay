@@ -1,0 +1,19 @@
+{
+  "id": 261832705497497600,
+  "username": "Ken",
+  "roleId": 611358910493753356,
+  "channelId": 611358913475903517,
+  "arrivalDate": 1565829724702,
+  "isPremium": false,
+  "bypassOlderness": false,
+  "protection": "NOTHING",
+  "whitelistedFor": [],
+  "sentMsgNumber": 0,
+  "receivedMsgNumber": 1,
+  "notes": {},
+  "lastMessageSender": "0000",
+  "relationWith": [
+    "0000"
+  ],
+  "contactList": {}
+}
